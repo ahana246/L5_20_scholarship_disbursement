@@ -1,0 +1,13 @@
+************* Module scholarship_disbursement
+scholarship_disbursement.py:69:0: C0304: Final newline missing (missing-final-newline)
+scholarship_disbursement.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+scholarship_disbursement.py:18:0: C0116: Missing function or method docstring (missing-function-docstring)
+scholarship_disbursement.py:31:0: C0116: Missing function or method docstring (missing-function-docstring)
+scholarship_disbursement.py:42:0: C0116: Missing function or method docstring (missing-function-docstring)
+scholarship_disbursement.py:48:0: C0116: Missing function or method docstring (missing-function-docstring)
+scholarship_disbursement.py:52:0: C0116: Missing function or method docstring (missing-function-docstring)
+scholarship_disbursement.py:60:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 7.78/10 (previous run: 5.00/10, +2.78)
+
