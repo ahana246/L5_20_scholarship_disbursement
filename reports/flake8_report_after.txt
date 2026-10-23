@@ -1,1 +1,1 @@
-scholarship_disbursement.py:69:11: W292 no newline at end of file
+scholarship_disbursement.py:80:11: W292 no newline at end of file
